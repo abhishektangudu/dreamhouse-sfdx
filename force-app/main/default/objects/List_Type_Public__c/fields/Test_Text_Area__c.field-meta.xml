@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Test_Text_Area__c</fullName>
+    <defaultValue>&#39;Allows users to enter up to 255 characters\n&#39;+ 
+&#39;that display on separate \n&#39;+
+&#39;lines similar to a Description field.&#39;</defaultValue>
+    <externalId>false</externalId>
+    <label>Test Text Area</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>TextArea</type>
+</CustomField>

@@ -1,0 +1,130 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "List_Type_Public__c",
+                "referenceId": "List_Type_Public__cRef1"
+            },
+            "Test_Checkbox__c": true,
+            "Test_Currency__c": 14000,
+            "Test_Date__c": "2019-03-01",
+            "Test_Date_Time__c": "2019-04-05T18:49:00.000+0000",
+            "Test_Email__c": "abc@1223123.com",
+            "Test_Number__c": 18.2,
+            "Test_Percent__c": 22.5,
+            "Test_Phone__c": "(098) 765-4321",
+            "Test_Text__c": "sample text for testing",
+            "Test_Text_Area__c": "Allows users to enter up to 255 characters that display on separate lines similar to a Description field.",
+            "Test_URL__c": "https://salesforce.com",
+            "Name": "Test Record 4"
+        },
+        {
+            "attributes": {
+                "type": "List_Type_Public__c",
+                "referenceId": "List_Type_Public__cRef2"
+            },
+            "Test_Checkbox__c": true,
+            "Test_Currency__c": 12000,
+            "Test_Date__c": "2021-03-09",
+            "Test_Date_Time__c": "2024-03-05T19:52:00.000+0000",
+            "Test_Email__c": "abc@123.com",
+            "Test_Number__c": 18.2,
+            "Test_Percent__c": 22.5,
+            "Test_Phone__c": "1234567890",
+            "Test_Text__c": "!@#$%^&*",
+            "Test_Text_Area__c": "Allows users to enter up to 255 !@#$%^&*()ZXCVBNM<>??\r\n\r\n\\\\\\characters that display on separate lines similar to a Description field.",
+            "Test_URL__c": "https://salesforce.com",
+            "Name": "Test Record 7"
+        },
+        {
+            "attributes": {
+                "type": "List_Type_Public__c",
+                "referenceId": "List_Type_Public__cRef3"
+            },
+            "Test_Checkbox__c": true,
+            "Test_Currency__c": 1000,
+            "Test_Date__c": "2019-03-01",
+            "Test_Date_Time__c": "2019-03-20T17:14:00.000+0000",
+            "Test_Email__c": "abc@123.com",
+            "Test_Number__c": 182222.2,
+            "Test_Percent__c": 23.5,
+            "Test_Phone__c": "1234567890",
+            "Test_Text__c": "sample text for testing",
+            "Test_Text_Area__c": "test the text area field",
+            "Test_URL__c": "https://salesforce.com",
+            "Name": "Test Record 1"
+        },
+        {
+            "attributes": {
+                "type": "List_Type_Public__c",
+                "referenceId": "List_Type_Public__cRef4"
+            },
+            "Test_Checkbox__c": true,
+            "Test_Currency__c": 12000,
+            "Test_Date__c": "2019-03-30",
+            "Test_Date_Time__c": "2019-03-24T18:48:00.000+0000",
+            "Test_Email__c": "absac@123.com",
+            "Test_Number__c": 18121.2,
+            "Test_Percent__c": 22.5,
+            "Test_Phone__c": "1234567890",
+            "Test_Text__c": "sample text for testing",
+            "Test_Text_Area__c": "Allows users to enter up to 255 characters that display on separate lines similar to a Description field.",
+            "Test_URL__c": "https://salesforce.com",
+            "Name": "Test Record 3"
+        },
+        {
+            "attributes": {
+                "type": "List_Type_Public__c",
+                "referenceId": "List_Type_Public__cRef5"
+            },
+            "Test_Checkbox__c": true,
+            "Test_Currency__c": 126000.11,
+            "Test_Date__c": "2019-03-01",
+            "Test_Date_Time__c": "2019-03-05T19:50:00.000+0000",
+            "Test_Email__c": "abc@1223423433.com",
+            "Test_Number__c": 1843534345.2,
+            "Test_Percent__c": 22.5,
+            "Test_Phone__c": "(098) 765-4321",
+            "Test_Text__c": "sample text for testing with all differnt characters !@#$%^&*",
+            "Test_Text_Area__c": "Allows users to enter up to 255 characters that display on separate lines similar to a Description field.!@#$%^&*()",
+            "Test_URL__c": "https://salesforce.com",
+            "Name": "Test Record 6"
+        },
+        {
+            "attributes": {
+                "type": "List_Type_Public__c",
+                "referenceId": "List_Type_Public__cRef6"
+            },
+            "Test_Checkbox__c": true,
+            "Test_Currency__c": 100000,
+            "Test_Date__c": "2019-03-28",
+            "Test_Date_Time__c": "2019-03-01T18:15:00.000+0000",
+            "Test_Email__c": "abc@123.com",
+            "Test_Number__c": 18.2,
+            "Test_Percent__c": 22.5,
+            "Test_Phone__c": "1234567890",
+            "Test_Text__c": "sample text for testing",
+            "Test_Text_Area__c": "Test the text are field with some sample text\r\nwith multiple lanes\r\nthat is it.",
+            "Test_URL__c": "https://salesforce.com",
+            "Name": "Test Record 2"
+        },
+        {
+            "attributes": {
+                "type": "List_Type_Public__c",
+                "referenceId": "List_Type_Public__cRef7"
+            },
+            "Test_Checkbox__c": false,
+            "Test_Currency__c": 15000,
+            "Test_Date__c": "2021-03-17",
+            "Test_Date_Time__c": "2018-03-06T19:50:00.000+0000",
+            "Test_Email__c": "abc@123.com",
+            "Test_Number__c": 1855.2,
+            "Test_Percent__c": 22.5,
+            "Test_Phone__c": "1234567890",
+            "Test_Text__c": "test 112124@#$$$%%",
+            "Test_Text_Area__c": "Allows users to enter up to 255 characters that display on separate lines similar to a Description field.",
+            "Test_URL__c": "https://salesforce.com",
+            "Name": "Test Record 5"
+        }
+    ]
+}
